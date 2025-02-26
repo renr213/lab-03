@@ -1,0 +1,40 @@
+---
+title: "Lab 3: Data tidying and joining"
+author: "Ann Peebles"
+format: pdf
+editor: visual
+---
+
+## Part 1
+
+### Question 1
+
+\newpage
+### Question 2
+
+\newpage
+### Question 3
+
+\newpage
+### Question 4
+
+\newpage
+### Question 5
+
+\newpage
+### Question 6
+
+\newpage
+### Question 7
+
+
+\newpage
+## Part 2
+
+### Question 8
+
+\newpage
+### Question 9
+
+\newpage
+### Question 1
